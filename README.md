@@ -8,12 +8,12 @@
 ---
 
 ## 📑 Contenidos
-1. [Descripción General](#descripción-general)  
-2. [Ejecución de la API (API_Kanan)](#ejecución-de-la-api-api_kanan)  
-3. [Ejecución de la App Móvil](#ejecución-de-la-app-móvil)  
-4. [Estructura de Carpetas](#estructura-de-carpetas)  
-5. [Métricas de Rendimiento](#métricas-de-rendimiento)  
-6. [Resultados de la App Móvil](#resultados-de-la-app-móvil)  
+1. [Descripción General](#descripción-general)
+2. [Ejecución de la API (API_Kanan)](#ejecucion-de-la-api-apikanan)
+3. [Ejecución de la App Móvil](#ejecucion-de-la-app-movil)
+4. [Estructura de Carpetas](#estructura-de-carpetas)
+5. [Métricas de Rendimiento](#métricas-de-rendimiento)
+6. [Resultados de la App Móvil](#resultados-de-la-app-movil)
 7. [Licencia](#licencia)
 
 ---
