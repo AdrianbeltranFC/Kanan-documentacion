@@ -1,5 +1,5 @@
 # AI-Based Mobile App for Diabetic Foot Ulcer Analysis 
-**"Para citar"**   
+**Para citar:**   
 > Maldonado-Oclica, A. et al. (2025). AI-Based Mobile App for Segmentation and Tissue Classification on Diabetic Foot Ulcer: A Step Forward in Patient Care. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science, vol 15735. Springer, Cham. <https://doi.org/10.1007/978-3-031-95841-0_47>
 
 [![Licencia](https://img.shields.io/badge/licencia-Todos%20los%20derechos%20reservados-blue.svg)](#licencia)
@@ -26,9 +26,25 @@ Este repositorio contiene la documentación y el código fuente de **Kanan**, qu
 
 ---
 
-## Ejecución de la API
+## Ejecución de la API (API_Kanan)
+
+> **Nota importante:** La API de Kanan se encuentra en un submódulo externo.  
+> Para poder utilizarla correctamente, primero debes clonar este repositorio con la opción de submódulos:
+
+```bash
+# Clonar el repositorio principal con submódulos
+git clone --recurse-submodules https://github.com/AdrianbeltranFC/Kanan-documentacion.git
+
+# Entrar en la carpeta del repositorio
+cd Kanan-documentacion
+
+# Si ya clonaste sin --recurse-submodules, inicializa y actualiza los submódulos manualmente
+git submodule init
+git submodule update
+```
+
 La documentación completa y los pasos de ejecución de la API se encuentran en su propio archivo:  
-👉 [Ver documentación de la API](API_Kanan/README.md)
+👉 [Ver documentación de la API](https://github.com/Sekkan-soluciones-biomedicas/API_kanan/blob/main/README.md)
 
 ---
 
