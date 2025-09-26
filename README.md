@@ -1,5 +1,5 @@
-# AI-Based Mobile App for Diabetic Foot Ulcer Analysis  
-> **Para citar"**  
+# AI-Based Mobile App for Diabetic Foot Ulcer Analysis 
+**"Para citar"**   
 > Maldonado-Oclica, A. et al. (2025). AI-Based Mobile App for Segmentation and Tissue Classification on Diabetic Foot Ulcer: A Step Forward in Patient Care. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science, vol 15735. Springer, Cham. <https://doi.org/10.1007/978-3-031-95841-0_47>
 
 [![Licencia](https://img.shields.io/badge/licencia-Todos%20los%20derechos%20reservados-blue.svg)](#licencia)
@@ -78,7 +78,7 @@ En construcción. Pronto estará disponible la documentación.
 ---
 
 ## 📷 Resultados de la App Móvil
-<p float="left"> <img src="examples/app_result1.png" alt="Interfaz: resultados de la clasificación con los porcentajes de coloración, tamaño de la herida, perímetro y la imagen anotada" width="48%" /> <img src="examples/app_result2.png" alt="Interfaz: Resultados de la segmentación con los porcentajes de cada tejido respecto a la fotografía y el tamaño de cada uno en unidades reales" width="48%" /> </p>
+<p float="left"> <img src="examples/app_result1.jpeg" alt="Interfaz: resultados de la clasificación con los porcentajes de coloración, tamaño de la herida, perímetro y la imagen anotada" width="48%" /> <img src="examples/app_result2.jpeg" alt="Interfaz: Resultados de la segmentación con los porcentajes de cada tejido respecto a la fotografía y el tamaño de cada uno en unidades reales" width="48%" /> </p>
 Figura 1. Interfaz de la app mostrando:
 
 A la izquierda, resultados de la clasificación de la úlcera. 
@@ -88,6 +88,6 @@ A la derecha, resultados de la segmentación.
 ---
 
 ## 🔗 Licencia
-Estado: En progreso
+Estado: En progreso.
 Este proyecto es privado y se distribuye bajo All Rights Reserved.
 © 2025 Kanan Project. Todos los derechos reservados.
