@@ -1,0 +1,3 @@
+[submodule "API_Kanan"]
+	path = API_Kanan
+	url = https://github.com/Sekkan-soluciones-biomedicas/API_kanan.git
