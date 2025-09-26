@@ -43,8 +43,7 @@ git submodule init
 git submodule update
 ```
 
-La documentación completa y los pasos de ejecución de la API se encuentran en su propio archivo:  
-👉 [Ver documentación de la API](https://github.com/Sekkan-soluciones-biomedicas/API_kanan/blob/main/README.md)
+La documentación completa y los pasos de ejecución de la API se encuentran en su propio archivo.
 
 ---
 
@@ -95,11 +94,10 @@ En construcción. Pronto estará disponible la documentación.
 
 ## 📷 Resultados de la App Móvil
 <p float="left"> <img src="examples/app_result1.jpeg" alt="Interfaz: resultados de la clasificación con los porcentajes de coloración, tamaño de la herida, perímetro y la imagen anotada" width="48%" /> <img src="examples/app_result2.jpeg" alt="Interfaz: Resultados de la segmentación con los porcentajes de cada tejido respecto a la fotografía y el tamaño de cada uno en unidades reales" width="48%" /> </p>
-Figura 1. Interfaz de la app mostrando:
+Figuras 1 y 2. Interfaz de la app mostrando:
 
-A la izquierda, resultados de la clasificación de la úlcera. 
-
-A la derecha, resultados de la segmentación. 
+Resultados de la clasificación de la úlcera (izquierda). 
+Resultados de la segmentación (derecha). 
 
 ---
 
